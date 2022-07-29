@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/my-new-portfolio/static/css/main.11af35a9.css",
-    "main.js": "/my-new-portfolio/static/js/main.5c9145b8.js",
+    "main.css": "/my-new-portfolio/static/css/main.cd59095a.css",
+    "main.js": "/my-new-portfolio/static/js/main.8e4062ee.js",
+    "static/media/SC_Synoptek4.png": "/my-new-portfolio/static/media/SC_Synoptek4.fd0532145e7b3019cb60.png",
+    "static/media/stephencurrie_resume_CIO.pdf": "/my-new-portfolio/static/media/stephencurrie_resume_CIO.8175e1adfb1dce21f1b5.pdf",
+    "static/media/entertainmentfinder2.png": "/my-new-portfolio/static/media/entertainmentfinder2.0129067012e287ff84c8.png",
+    "static/media/weather_screen2.png": "/my-new-portfolio/static/media/weather_screen2.d09e430b8df041e3ad24.png",
     "static/media/twitter.png": "/my-new-portfolio/static/media/twitter.3168b9bb8febb77d9dee.png",
+    "static/media/prioritizer_screen2.png": "/my-new-portfolio/static/media/prioritizer_screen2.e7e43f43f79c98730471.png",
+    "static/media/workdayscreen.png": "/my-new-portfolio/static/media/workdayscreen.e263528bc45fbc99281c.png",
     "index.html": "/my-new-portfolio/index.html",
-    "main.11af35a9.css.map": "/my-new-portfolio/static/css/main.11af35a9.css.map",
-    "main.5c9145b8.js.map": "/my-new-portfolio/static/js/main.5c9145b8.js.map"
+    "main.cd59095a.css.map": "/my-new-portfolio/static/css/main.cd59095a.css.map",
+    "main.8e4062ee.js.map": "/my-new-portfolio/static/js/main.8e4062ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.11af35a9.css",
-    "static/js/main.5c9145b8.js"
+    "static/css/main.cd59095a.css",
+    "static/js/main.8e4062ee.js"
   ]
 }
